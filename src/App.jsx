@@ -38,7 +38,7 @@ function App() {
 
   return (
     <>
-      <h1>Number guessing game</h1>
+      <h1>Number guessing  game</h1>
       <p>Try and guess a random number between 1 and 100.</p>
       <p>You have {intentos} attempts to guess the right number.</p>
       <br />
